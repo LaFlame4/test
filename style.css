@@ -1,4 +1,9 @@
 .s-button{
-    background-color: red
-    ;
+    background-color: red;
+    width: 86px;
+    height: 36px;
+    font-size: 16px;
+    border-color: white;
+    text-emphasis-color: white;
+
 }
